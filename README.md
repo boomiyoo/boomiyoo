@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boomiyoo
-- 👀 I’m interested in SBC & AI
+- 👀 I’m interested in Python & AI
 - 🌱 I’m currently learning all about AI in IoT
 <!---
 boomiyoo/boomiyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
